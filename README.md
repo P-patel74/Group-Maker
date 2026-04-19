@@ -1,1 +1,2 @@
 # Group-Maker
+This project is a JavaScript random group generator that lets users input names and automatically organizes them into randomized groups. Users enter names one by one, and the program stores them in an array. When a group size is selected, the program randomly distributes the names into groups and displays the results. It also handles leftover members by distributing them across existing groups. The project uses arrays, loops, random number generation, event handling, and DOM manipulation to create an interactive grouping tool.
